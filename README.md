@@ -1,5 +1,8 @@
 # Cadastro DNS - inserção de registros A e CNAME
 
+- Autor: Clayton Teixeira
+
+
 ## Descrição:
 
 Script em BashShell, utilizando comandos básicos do Linux o que o torna multiplataforma entre distribuições Linux e Unix (AIX e Solaris).  Este script tem a finalidade de inserir entradas do tipo A e CNAME no mapa principal de domínio de um cliente.
